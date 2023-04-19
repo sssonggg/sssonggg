@@ -1,6 +1,7 @@
+<div align="center">
 # ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=🎨Welcome%20to%20Ssong's%20Github!%20🎈&fontSize=50&fontColor=navy)
 
-<div align="center">
+
 ![Ssong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssonggg&theme=solarized-light&show_icons=true)
 </div>
 
