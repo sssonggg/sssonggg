@@ -1,19 +1,16 @@
-<div align="center">
+<div>
   
 # ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&animation=twinkling&section=header&text=🎨Welcome%20to%20Ssong's%20Github!%20🎈&fontSize=50&fontColor=navy)
 
-
-![Ssong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssonggg&theme=solarized-light&show_icons=true)
 </div>
 
 ### 🎵 Hello! Have a nice day -
 
 <p>
-  😊 안녕하세요! 열심히 개발을 공부하고 있습니다!😬<br/>
-  🌱 열심히 잔디도 심어보겠습니다.. 나무가 되는... 그날까지..🌳<br/>
-  🎁 행복한 순간이 가득하시길 바라며.. 이만 총총... 🍰👍🏻 <br/><br/>
+   😊 안녕하세요! 열심히 개발을 공부하고 있습니다!😬<br/>
+   🌱 열심히 잔디도 심어보겠습니다.. 나무가 되는... 그날까지..🌳<br/>
+   🎁 행복한 순간이 가득하시길 바라며.. 이만 총총... 🍰👍🏻 <br/><br/>
 </p>
-<br>
 
 ### 📚 Skills
 #### - Languages
@@ -42,4 +39,9 @@
 
 
 ### 🤿 About My Git..
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssonggg&layout=compact"><br><br>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssonggg&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sssonggg&theme=solarized-light&show_icons=true">
+</div>
+<br><br>
+
